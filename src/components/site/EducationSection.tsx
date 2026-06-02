@@ -9,7 +9,7 @@ export default function EducationSection() {
         <SectionHeading
           eyebrow="Học vấn"
           title="Bằng cấp & ghi nhận"
-          description="Tóm tắt học vấn và chứng chỉ theo nội dung PDF."
+          description="Tóm tắt học vấn và chứng chỉ."
         />
 
         <div className="grid gap-6 lg:grid-cols-3">

@@ -83,7 +83,7 @@ export default function ProjectsSection() {
         <SectionHeading
           eyebrow="Dự án"
           title="Thành quả trong quá trình làm việc"
-          description="Một vài dự án/nhóm công việc tiêu biểu. Nội dung được rút gọn theo đúng kinh nghiệm từ PDF."
+          description="Một vài dự án/nhóm công việc tiêu biểu."
         />
 
         <div className="grid gap-6 lg:grid-cols-3">
